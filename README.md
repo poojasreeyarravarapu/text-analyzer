@@ -14,3 +14,23 @@ This is a simple text analyzer app built using React. App with a textarea where 
 1. Clone the repository:
    ```bash
    git clone https://github.com/poojasreeyarravarapu/text-analyzer.git
+
+2. Navigate to the project folder:
+   ```bash
+   cd text-analyzer
+
+3. Install dependencies:
+   ```bash
+   npm install
+   
+4. Start the development server:
+   ```bash
+   npm start
+
+5. Open http://localhost:3000 to view the app in your browser.
+
+# Deployment
+
+The app can be deployed easily using services like Netlify, Vercel, or GitHub Pages.
+
+
