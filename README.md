@@ -13,4 +13,4 @@ This is a simple text analyzer app built using React. App with a textarea where 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/text-analyzer.git
+   git clone https://github.com/poojasreeyarravarapu/text-analyzer.git
